@@ -1,0 +1,17 @@
+"C:\Program Files\Java\jdk-24\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\lib\idea_rt.jar=62046" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\arynm\IdeaProjects\Learning .java\out\production\Learning .java" WeatherAssignment
+=== Weather Data System ===
+Available cities: [Delhi, Mumbai, Chennai, Kolkata, Bengaluru]
+
+Choose option: 1=Retrieve  2=Insert  3=Delete  4=Exit : 2
+Enter city: DELHI
+Enter year (2021-2025): 2022
+Enter temperature: 23
+Inserted DELHI 2022 -> 23.0°C
+
+Choose option: 1=Retrieve  2=Insert  3=Delete  4=Exit : 1
+Enter city: DELHI
+Enter year (2021-2025): 2022
+[Dense] DELHI 2022 -> 23.0°C
+[Sparse] DELHI 2022 -> 23.0°C
+
+Choose option: 1=Retrieve  2=Insert  3=Delete  4=Exit : 
